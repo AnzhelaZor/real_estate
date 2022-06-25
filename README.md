@@ -9,7 +9,7 @@
 Признаки: \
 •	airports_nearest — расстояние до ближайшего аэропорта (м) \
 •	balcony — количество балконов \
-•	ceiling_height — высота потолков (м)\ 
+•	ceiling_height — высота потолков (м) \ 
 •	cityCenters_nearest — расстояние до центра города (м) \
 •	days_exposition — сколько дней было размещено объявление \
 •	first_day_exposition — дата публикации \
